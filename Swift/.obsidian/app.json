@@ -1,0 +1,10 @@
+{
+  "strictLineBreaks": true,
+  "propertiesInDocument": "visible",
+  "showLineNumber": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "foldHeading": false,
+  "foldIndent": false
+}
