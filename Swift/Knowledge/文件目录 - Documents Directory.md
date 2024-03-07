@@ -37,4 +37,17 @@ Button("Read and Write") {
 }
 ```
 
+如果想要数据**自动读取**，可以这么写：
+
+```swift
+init() {
+    do {
+        let data = try Data(contentsOf: savePath)
+        locations = try JSONDecoder().decode([Location].self, from: data)
+    } catch {
+        locations = []
+    }
+}
+```
+
 #data 
