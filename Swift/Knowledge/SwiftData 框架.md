@@ -111,4 +111,14 @@ modelContext.insert(student)
 try? modelContext.delete(model: User.self)
 ```
 
+## 存储大型数据
+
+在模型中存储图片或影片等大型数据时，请使用像这样的特殊 `@Attribute` 宏来定义它们：
+
+```swift
+@Attribute(.externalStorage) var photo: Data
+```
+
+这样，SwiftData 就不会直接在数据库中保存图像数据，而是将其放在旁边，这样性能更好。
+
 #data #framework
