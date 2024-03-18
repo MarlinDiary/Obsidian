@@ -54,4 +54,12 @@ UNUserNotificationCenter.current().add(request)
 - **Trigger** 决定何时显示通知，可以是几秒后、未来的某个日期和时间，也可以是某个位置
 - **Request** 不仅结合了 content 和 trigger，还添加了一个唯一 identifier，以便以后编辑或删除特定警报，如果不想编辑或删除内容，可使用 `UUID().uuidString` 获取随机 identifier
 
+5. 可以调用 `getNotificationSettings()` 来读取当前用户是否允许发送通知：
+
+```swift
+UNUserNotificationCenter.current().getNotificationSettings
+
+// 这将会返回一个类型，这个类型有诸如 authorizationStatus 此类的属性
+```
+
 #framework 
