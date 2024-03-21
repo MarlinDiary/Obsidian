@@ -10,4 +10,12 @@
 | .indices       | 为我们提供每个项目的位置                         |
 | .first         | 访问集合中的第一个元素                          |
 
+## 初始化器
+
+- 重复一个值多次，以创建数组：
+
+```swift
+@State private var cards = Array<Card>(repeating: .example, count: 10)
+```
+
 #array 
