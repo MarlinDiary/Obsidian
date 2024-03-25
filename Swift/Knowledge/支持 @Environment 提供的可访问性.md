@@ -99,4 +99,12 @@ struct ContentView: View {
 // 启用 "降低透明度" 时，此代码使用纯黑色背景，否则使用 50% 透明度
 ```
 
+## VoiceOver
+
+该环境属性用于告知 VoiceOver 是否被开启：
+
+```swift
+@Environment(\.accessibilityVoiceOverEnabled) var accessibilityVoiceOverEnabled
+```
+
 #swiftui 

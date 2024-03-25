@@ -80,4 +80,22 @@ Button("Dismiss") {
 }
 ```
 
+## 关闭时调用函数
+
+可以为 sheet 附加一个函数，当 sheet 被取消时，该函数将自动运行。
+
+```swift
+.sheet(isPresented: $showingEditScreen, onDismiss: resetCards)
+```
+
+## 无参数视图的简易传递
+
+与其创建一个调用初始化器的闭包，不如直接将视图传递给 sheet：
+
+```swift
+.sheet(isPresented: $showingEditScreen, onDismiss: resetCards, content: EditCards.init)
+```
+
+这种方法使用的前提是视图的初始化器不接受任何参数，否则仍需要使用基于闭包的方法。
+
 #swiftui 
