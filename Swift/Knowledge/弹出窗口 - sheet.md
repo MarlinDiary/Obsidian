@@ -98,4 +98,17 @@ Button("Dismiss") {
 
 这种方法使用的前提是视图的初始化器不接受任何参数，否则仍需要使用基于闭包的方法。
 
+## 显示制动器
+
+显示制动器可以使 sheet 占用的空间小于全屏空间。这可以使用 `presentationDetents()` 修饰符来实现，该修饰符可接受用于 sheet 的一组尺寸。
+
+例如，可以这样指定中号和大号：
+
+```swift
+Text(selectedUser.id)
+    .presentationDetents([.medium, .large])
+```
+
+sheet 首次显示时将使用初始尺寸，但 iOS 会显示一个小把手，让用户将 sheet 拉到全尺寸。
+
 #swiftui 
