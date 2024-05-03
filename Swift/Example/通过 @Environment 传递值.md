@@ -63,6 +63,7 @@ VStack {
 @Environment(Player.self) var player
 
 // 给定视图层次结构的环境只能容纳一个给定类型的可观察对象
+// 需要在 Preview 中用 .environment(Favorites()) 注入示例对象
 ```
 
 以上解决方案在大多数情况下运行良好，但在尝试使用 `@Environment` 值作为绑定时会出现问题。

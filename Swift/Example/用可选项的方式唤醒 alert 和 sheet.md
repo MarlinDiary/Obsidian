@@ -32,8 +32,9 @@ alert 具有类似的功能，不过需要同时传递**布尔值**和**可选�
 ```
 
 ```swift
-.alert("Welcome", isPresented: $isShowingUser, presenting: selectedUser) { user in
-    Button(user.id) { }
+.alert(selectedFacility?.name ?? "More information", isPresented: $isShowingUser, presenting: selectedFacility) { _ in
+} message: { facility in
+    Text(facility.description)
 }
 ```
 

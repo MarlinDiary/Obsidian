@@ -107,4 +107,18 @@ struct ContentView: View {
 @Environment(\.accessibilityVoiceOverEnabled) var accessibilityVoiceOverEnabled
 ```
 
+## Dynamic Type Size
+
+该环境属性用于告知用户当前所调整字体的尺寸：
+
+```swift
+@Environment(\.dynamicTypeSize) var dynamicTypeSize
+```
+
+可以限制特定视图支持的 dynamicTypeSize 范围。你可能已经努力支持尽可能大的范围，但发现任何大于 XXXL 范围的尺寸看起来都很糟糕，此时可以在视图上用 `dynamicTypeSize()` 修饰符：
+
+```swift
+.dynamicTypeSize(...DynamicTypeSize.xxxLarge)
+```
+
 #swiftui 
