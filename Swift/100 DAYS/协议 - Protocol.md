@@ -39,4 +39,4 @@ struct Car: Vehicle {
 func commute(distance: Int, using vehicle: Vehicle) {
 ```
 
-#protocol
+#protocol #easy 

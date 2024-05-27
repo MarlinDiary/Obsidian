@@ -31,4 +31,4 @@ extension Collection {
 }
 ```
 
-#class  #struct  #enum 
+#class  #struct  #enum #easy 

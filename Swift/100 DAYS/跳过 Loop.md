@@ -2,7 +2,7 @@
 
 当您想跳过当前循环迭代的剩余部分时，请使用 `continue` ；当您想跳过所有剩余的循环迭代时，请使用 `break` 。
 
-## 用 Break 跳过 Loop
+## 用 Continue 跳过 Loop
 
 ```swift
 let filenames = ["me.jpg", "work.txt", "sophie.jpg", "logo.psd"]
@@ -16,7 +16,7 @@ for filename in filenames {
 }
 ```
 
-## 用 Continue 跳过 Loop
+## 用 Break 跳过 Loop
 
 ```swift
 let number1 = 4
@@ -36,4 +36,4 @@ for i in 1...100_000 {
 print(multiples)
 ```
 
-#loop
+#loop #easy 

@@ -20,4 +20,4 @@ class Car: Vehicle {
 
 只有在类实例的最后一个引用被销毁时，才会调用去初始化器
 
-#class 
+#class #easy 
