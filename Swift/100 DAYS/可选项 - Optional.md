@@ -78,4 +78,4 @@ let author = book?.author?.first?.uppercased() ?? "A"
 print(author)
 ```
 
-#optional
+#optional #hard

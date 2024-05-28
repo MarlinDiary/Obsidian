@@ -60,4 +60,4 @@ print(user)
 
 这就是 `try?` 所起的作用：它使 `getUser()` 返回一个可选字符串，如果抛出任何错误，该字符串将为 nil。
 
-#function
+#function #hard 
