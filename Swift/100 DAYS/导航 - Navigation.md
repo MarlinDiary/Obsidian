@@ -24,4 +24,4 @@ var body: some View {
 
 以上修饰符用于修饰 NavigationStack 内部的组件。
 
-#struct  #swiftui 
+#struct  #swiftui #easy 

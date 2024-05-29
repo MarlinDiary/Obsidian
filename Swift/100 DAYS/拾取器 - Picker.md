@@ -6,4 +6,4 @@ Picker 是一种 [[结构 - Struct]]。
 | --- | --- |
 | `.pickerStyle` | .navigationLink（需要结合 [[导航 - Navigation#NavigationStack]] 使用）<br><br>.segmented |
 
-#struct #swiftui 
+#struct #swiftui #easy 
