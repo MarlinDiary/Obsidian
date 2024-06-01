@@ -49,4 +49,4 @@ ZStack {
 
 有些视图（如 `List` 视图）允许内容滚动到安全区域之外，但会添加额外的嵌入，以便用户可以将内容滚动到视图中。
 
-#swiftui #struct 
+#swiftui #struct #easy 

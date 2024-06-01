@@ -59,4 +59,4 @@ Text("Your content")
     .background(.red.gradient)
 ```
 
-#swiftui #struct #array 
+#swiftui #struct #array #easy 

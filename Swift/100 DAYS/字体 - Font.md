@@ -10,4 +10,4 @@
 
 - 要求使用粗体字体非常常见，实际上有一个小快捷方式： `.font(.largeTitle.bold())`
 
-#swiftui
+#swiftui #easy 

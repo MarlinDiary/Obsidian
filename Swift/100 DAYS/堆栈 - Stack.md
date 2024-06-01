@@ -76,4 +76,4 @@ VStack {
 }
 ```
 
-#swiftui #struct
+#swiftui #struct #easy 
