@@ -80,4 +80,4 @@ extension View {
 
 也可以直接用扩展添加新方法，但相比之下，最大的弊端在于不可以有「**存储属性**」。
 
-#struct #function #swiftui #condition 
+#struct #function #swiftui #condition #hard 

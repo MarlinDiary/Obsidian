@@ -35,4 +35,4 @@ struct ContentView: View {
 
 SwiftUI 最不愿意做的事情就是在每次进行微小改动时都丢弃整个布局并从头开始。相反，它希望尽可能减少工作量：保留现有的四个视图，只添加第五个视图。
 
-#struct #loop #swiftui 
+#struct #loop #swiftui #easy 
