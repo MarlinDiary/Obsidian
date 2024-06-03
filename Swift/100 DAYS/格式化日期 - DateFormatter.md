@@ -22,4 +22,4 @@ Text(Date.now, format: .dateTime.day().month().year())
 Text(Date.now.formatted(date: .long, time: .shortened))
 ```
 
-#swiftui #struct 
+#swiftui #struct #easy 

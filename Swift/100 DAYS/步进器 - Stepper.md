@@ -28,4 +28,4 @@ Stepper("\(sleepAmount) hours", value: $sleepAmount, in: 4...12, step: 0.25)
 
 格式化浮点数字时可能要用到 formatted [[修改器 - Modifier]]。
 
-#swiftui #struct 
+#swiftui #struct #easy 

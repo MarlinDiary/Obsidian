@@ -41,4 +41,4 @@ func exampleDates() {
 DatePicker("Please enter a date", selection: $wakeUp, in: Date.now...)
 ```
 
-#swiftui #struct 
+#swiftui #struct #hard 

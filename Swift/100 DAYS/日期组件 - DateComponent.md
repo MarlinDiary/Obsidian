@@ -31,4 +31,4 @@ let minute = components.minute ?? 0
 
 此处的 `Calendar.current` 返回的是一个表示当前设备的日历系统的`Calendar`对象，而不是表示"今天"的日期。这个"当前"更多的是指当前的日历系统，比如公历或者儒略历等。
 
-#swiftui #type
+#swiftui #type #hard 
