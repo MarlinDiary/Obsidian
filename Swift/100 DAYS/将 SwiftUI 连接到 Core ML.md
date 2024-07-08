@@ -28,4 +28,4 @@ do {
 let prediction = try model.prediction(wake: Double(hour + minute), estimatedSleep: sleepAmount, coffee: Double(coffeeAmount))
 ```
 
-#swiftui #coreml #class 
+#swiftui #coreml #class #hard 

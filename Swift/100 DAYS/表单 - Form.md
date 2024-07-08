@@ -41,4 +41,4 @@ VStack(alignment: .leading, spacing: 0) {
 }
 ```
 
-#struct #swiftui 
+#struct #swiftui #easy 
