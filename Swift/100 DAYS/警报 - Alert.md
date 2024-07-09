@@ -50,4 +50,4 @@ Button("Show Alert") {
 }
 ```
 
-#swiftui #closure 
+#swiftui #closure #easy 

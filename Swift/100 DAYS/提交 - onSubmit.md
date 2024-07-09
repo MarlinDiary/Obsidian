@@ -4,4 +4,4 @@
 
 `onSubmit()` 需要给定一个不接受任何参数且不返回任何内容的函数。
 
-#swiftui 
+#swiftui #easy 

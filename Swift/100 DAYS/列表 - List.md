@@ -52,4 +52,4 @@ List {
 }
 ```
 
-#swiftui #struct 
+#swiftui #struct #easy 
