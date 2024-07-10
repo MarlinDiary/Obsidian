@@ -3,4 +3,4 @@
 - 只有在 `animation()` 修饰符之前发生的更改才会被动画化
 - 应用多个 `animation()` 时，每个修改器都会控制之前的所有内容至上一个动画
 
-#animation 
+#animation #easy 

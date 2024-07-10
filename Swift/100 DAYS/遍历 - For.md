@@ -16,4 +16,4 @@ func isPossible(word: String) -> Bool {
 }
 ```
 
-#loop #string 
+#loop #string #easy 

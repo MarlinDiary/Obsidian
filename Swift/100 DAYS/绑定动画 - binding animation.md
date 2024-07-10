@@ -17,4 +17,4 @@ Stepper("Scale amount", value: $animationAmount.animation(
 
 这些绑定动画有效地扭转了隐式动画的局面：与其在视图上设置动画并通过状态变化隐式地使其产生动画效果，不如不在视图上设置任何动画并通过状态变化显式地使其产生动画效果。在前者中，状态变化不知道会触发动画，而在后者中，视图也不知道会被动画化。
 
-#animation 
+#animation #hard 

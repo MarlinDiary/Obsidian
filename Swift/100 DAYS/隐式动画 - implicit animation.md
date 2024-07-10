@@ -36,4 +36,4 @@
 | .repeatCount(3, autoreverses: true) | 要求动画重复一定次数 |
 | .repeatForever(autoreverses: true) | 可和 [[启动运行 - onAppear\|onAppear]] 结合，可类比为打关键帧 |
 
-#animation 
+#animation #hard 

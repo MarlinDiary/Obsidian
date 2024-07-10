@@ -16,4 +16,4 @@ withAnimation(.spring(duration: 1, bounce: 0.5)) {
 }
 ```
 
-#animation 
+#animation #easy 
