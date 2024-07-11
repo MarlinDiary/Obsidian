@@ -18,4 +18,4 @@ if let fileContents = try? String(contentsOf: fileURL) {
 }
 ```
 
-#swiftui #struct #type #string 
+#swiftui #struct #type #string #hard 

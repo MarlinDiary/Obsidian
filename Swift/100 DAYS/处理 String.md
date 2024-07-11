@@ -68,4 +68,4 @@ let allGood = misspelledRange.location == NSNotFound
 | .remove | 移除字符串中特定位置的字符 |
 | .firstIndex(of:) | 用于找到集合（例如数组、字符串等）中指定元素首次出现的位置 |
 
-#string #type #objectivec 
+#string #type #objectivec #easy 
