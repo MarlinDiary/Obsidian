@@ -11,4 +11,4 @@ struct ExpenseItem {
 }
 ```
 
-#swiftui #function 
+#swiftui #function #easy 

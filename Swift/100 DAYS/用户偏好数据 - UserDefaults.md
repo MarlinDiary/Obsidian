@@ -51,4 +51,4 @@ struct ContentView: View {
 
 `@AppStorage` 非常适合用于存储整数和布尔值等简单设置，但当涉及复杂数据（例如自定义 Swift 类型）时，我们还是需要直接探查 `UserDefaults` 本身。
 
-#data
+#data #hard 
