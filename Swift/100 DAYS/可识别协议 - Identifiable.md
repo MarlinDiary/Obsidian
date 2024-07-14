@@ -17,4 +17,4 @@ ForEach(expenses.items) { item in
 }
 ```
 
-#protocol 
+#protocol #easy 

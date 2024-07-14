@@ -11,4 +11,4 @@
 | .scaledToFit() | 整个图像将适合容器，即使这意味着视图的某些部分是空的 |
 | .scaledToFill() | 视图将没有空的部分，即使这意味着我们的某些图像位于容器之外 |
 
-#struct #swiftui 
+#struct #swiftui #easy 
