@@ -16,4 +16,4 @@ struct Mission: Codable, Identifiable {
 
 它可以帮助保持代码的条理性：你可以写 `Mission.CrewRole` 而不是 `CrewRole` 。
 
-#struct 
+#struct #easy 

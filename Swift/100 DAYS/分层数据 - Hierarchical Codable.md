@@ -44,4 +44,4 @@ if let user = try? decoder.decode(User.self, from: data) {
 }
 ```
 
-#data #struct 
+#data #struct #hard 
