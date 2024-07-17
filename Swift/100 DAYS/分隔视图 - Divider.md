@@ -9,4 +9,4 @@ Rectangle()
     .padding(.vertical)
 ```
 
-#swiftui 
+#swiftui #easy 

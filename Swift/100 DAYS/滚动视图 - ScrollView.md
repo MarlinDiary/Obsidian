@@ -51,4 +51,4 @@ ScrollView(.horizontal) {
 | .showsIndicators: **false** | 控制滚动视图的滚动条（指示器）是否显示 |
 |  |  |
 
-#swiftui 
+#swiftui #easy 

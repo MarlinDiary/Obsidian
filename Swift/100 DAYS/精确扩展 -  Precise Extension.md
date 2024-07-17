@@ -18,4 +18,4 @@ extension ShapeStyle where Self == Color {
 .background(.lightBackground)
 ```
 
-#extension
+#extension #hard 
