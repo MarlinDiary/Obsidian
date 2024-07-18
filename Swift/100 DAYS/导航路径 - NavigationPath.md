@@ -32,4 +32,4 @@ NavigationStack(path: $path) {
 
 `NavigationPath` 就是我们所说的 **type-eraser** -- 它可以存储任何类型的 `Hashable` 数据，而不会暴露每个项目的具体数据类型。
 
-#swiftui 
+#swiftui #hard 

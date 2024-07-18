@@ -8,4 +8,4 @@ struct Student: Hashable {
 }
 ```
 
-#data #protocol #struct 
+#data #protocol #struct #easy 

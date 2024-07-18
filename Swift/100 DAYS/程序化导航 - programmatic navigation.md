@@ -22,4 +22,4 @@ struct ContentView: View {
 1. 它创建了一个 `@State` 属性，用于存储整数数组。
 2. 它将该属性绑定到 `NavigationStack` 的 `path` 上，这意味着更改数组将自动导航到数组中的任何内容，而且当用户按下导航栏中的 "Back "键时，也会更改数组。
 
-#swiftui 
+#swiftui #hard 

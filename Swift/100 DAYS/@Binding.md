@@ -12,4 +12,4 @@
 DetailView(number: 0, path: $path)
 ```
 
-#swiftui 
+#swiftui #easy 
