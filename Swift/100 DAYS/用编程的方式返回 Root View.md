@@ -27,4 +27,4 @@
 1. 将路径存储在使用 @Observable 的外部[[类 - Class]]中
 2. 引入一个名为 [[@Binding]] 的新[[属性包装器]]
 
-#swiftui 
+#swiftui #easy 

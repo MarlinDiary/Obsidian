@@ -7,4 +7,4 @@
 | .toolbarColorScheme(.dark) | 强制使用暗色模式 |
 | .toolbar(.hidden, for: .navigationBar) | 隐藏导航栏 |
 
-#swiftui 
+#swiftui #easy 
