@@ -26,4 +26,4 @@ let astronauts: [String: Astronaut] = Bundle.main.decode("astronauts.json")
 
 使用好泛型的关键在于**一开始**不要使用它们。
 
-#generics
+#generics #hard 

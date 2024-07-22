@@ -20,4 +20,4 @@ var disableForm: Bool {
 .disabled(disableForm)
 ```
 
-#swiftui 
+#swiftui #easy 
