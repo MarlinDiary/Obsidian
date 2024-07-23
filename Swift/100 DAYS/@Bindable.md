@@ -2,4 +2,4 @@
 
 `@Bindable` 属性包装器的作用就是为我们生成双向绑定，与 [[属性包装器#@Observable|@Observable]] 宏配合使用，而无需使用 `@State` 来创建本地数据。
 
-#swiftui 
+#swiftui #easy 

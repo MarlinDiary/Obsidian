@@ -26,4 +26,4 @@ class User: Codable {
 
 这事实上达成了一种双向映射。
 
-#class #data 
+#class #data #hard 
