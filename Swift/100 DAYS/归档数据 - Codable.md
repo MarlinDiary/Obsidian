@@ -54,4 +54,4 @@ init() {
 
 这里，`[ExpenseItem].self`引用的是`ExpenseItem`类型的数组，而不是数组的某个特定实例。
 
-#protocol #data #struct 
+#protocol #data #struct #hard

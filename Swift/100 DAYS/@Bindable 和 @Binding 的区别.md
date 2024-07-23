@@ -4,4 +4,4 @@
 
 `@Binding` 在要创建自定义用户界面组件时变得极为重要，@Binding 属性使它们能够直接与其他视图接口。
 
-#swiftui 
+#swiftui #easy 

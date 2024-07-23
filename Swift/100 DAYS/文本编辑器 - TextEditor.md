@@ -21,4 +21,4 @@ struct ContentView: View {
 }
 ```
 
-#swiftui 
+#swiftui #easy 

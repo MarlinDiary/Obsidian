@@ -17,4 +17,4 @@ struct BookwormApp: App {
 
 2. `WindowGroup` 部分告诉 SwiftUI，我们的应用程序可以在多个窗口中显示。这在 iPhone 上作用不大，但在 iPad 和 macOS 上就变得非常重要了。
 
-#struct 
+#struct #hard 
