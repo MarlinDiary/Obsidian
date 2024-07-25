@@ -12,4 +12,4 @@ Image(systemName: "\(word.count).circle")
 .font(.largeTitle)
 ```
 
-#swiftui 
+#swiftui #easy 

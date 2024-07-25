@@ -12,4 +12,4 @@
 RatingView(rating: .constant(book.rating))
 ```
 
-#swiftui 
+#swiftui #easy 
