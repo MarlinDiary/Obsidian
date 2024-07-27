@@ -16,4 +16,4 @@ Picker("Sort", selection: $sortOrder) {
 }
 ```
 
-#swiftui 
+#swiftui #easy 

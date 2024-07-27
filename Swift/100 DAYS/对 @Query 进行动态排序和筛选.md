@@ -24,4 +24,4 @@ init(minimumJoinDate: Date, sortOrder: [SortDescriptor<User>]) {
 
 [[排序描述 - SortDescriptor]] 类型需要知道它要排序什么，因此需要在角括号内指定 Class/Type 。
 
-#data 
+#data #hard 

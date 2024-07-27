@@ -6,4 +6,4 @@ Menu("Sort", systemImage: "arrow.up.arrow.down") {
 }
 ```
 
-#swiftui 
+#swiftui #easy 
