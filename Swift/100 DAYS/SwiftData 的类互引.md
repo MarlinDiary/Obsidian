@@ -64,4 +64,4 @@ class Job {
 @Relationship(deleteRule: .cascade) var jobs = [Job]()
 ```
 
-#class #data 
+#class #data #hard 
