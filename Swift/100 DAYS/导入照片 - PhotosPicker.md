@@ -116,4 +116,4 @@ PhotosPicker(selection: $pickerItems, maxSelectionCount: 3, matching: .any(of: [
 }
 ```
 
-#framework #swiftui 
+#framework #swiftui #easy 

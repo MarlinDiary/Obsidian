@@ -32,4 +32,4 @@ ShareLink(item: example, preview: SharePreview("Singapore Airport", image: examp
 }
 ```
 
-#swiftui 
+#swiftui #easy 

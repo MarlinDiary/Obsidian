@@ -87,4 +87,4 @@ Button {
 | .rotation3DEffect | 它可以给定一个旋转量和一个轴      |
 | .buttonStyle      | 可以调整显示的颜色           |
 
-#struct #swiftui #closure 
+#struct #swiftui #closure #easy 

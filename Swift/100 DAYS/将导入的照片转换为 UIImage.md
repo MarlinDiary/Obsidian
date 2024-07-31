@@ -11,4 +11,4 @@ func loadImage() {
 }
 ```
 
-#swiftui 
+#swiftui #easy 

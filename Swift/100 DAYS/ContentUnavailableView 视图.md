@@ -29,4 +29,4 @@ ContentUnavailableView {
 }
 ```
 
-#swiftui 
+#swiftui #easy 
