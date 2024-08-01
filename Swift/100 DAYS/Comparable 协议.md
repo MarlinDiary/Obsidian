@@ -61,4 +61,4 @@ struct User: Identifiable, Comparable {
 3. 这个方法必需返回一个 **Boolean**；
 4. 必须标记为 **static** ，这意味着它是直接在结构上调用，而不是在结构的单个实例上调用；
 
-#protocol 
+#protocol #easy 

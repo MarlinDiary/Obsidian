@@ -30,4 +30,4 @@ Button("Leave a review") {
 @MainActor func
 ```
 
-#swiftui 
+#swiftui #easy 

@@ -126,4 +126,4 @@ if inputKeys.contains(kCIInputScaleKey) { currentFilter.setValue(amount * 10, fo
 
 这种为键设置值的工作方式和 [[用户偏好数据 - UserDefaults]] 很像。
 
-#framework 
+#framework #hard 
