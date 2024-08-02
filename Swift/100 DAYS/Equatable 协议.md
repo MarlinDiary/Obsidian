@@ -8,4 +8,4 @@ static func ==(lhs: Location, rhs: Location) -> Bool {
 }
 ```
 
-#protocol 
+#protocol #easy 

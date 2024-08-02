@@ -17,4 +17,4 @@ init(location: Location) {
 }
 ```
 
-#struct 
+#struct #hard 

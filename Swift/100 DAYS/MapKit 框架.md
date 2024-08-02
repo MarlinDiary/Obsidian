@@ -172,4 +172,4 @@ MapReader { proxy in
 
 `.local` 表示在地图的本地坐标空间中转换该位置。这意味着正在处理的点击位置是相对于地图左上角的，而不是整个屏幕或其他坐标空间。
 
-#framework 
+#framework #hard 

@@ -6,4 +6,4 @@ static let example = Location(id: UUID(), name: "Buckingham Palace", description
 
 可以用 `#if DEBUG` 和 `#endif` 对 `static let example` 行进行包装，以避免将其内置到您的应用商店版本中。
 
-#struct #class 
+#struct #class #easy 
