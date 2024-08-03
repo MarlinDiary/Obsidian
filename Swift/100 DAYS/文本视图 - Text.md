@@ -8,4 +8,4 @@ Text("Page description here")
     .italic()
 ```
 
-#swiftui 
+#swiftui #easy 

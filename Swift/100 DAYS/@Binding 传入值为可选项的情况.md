@@ -44,4 +44,4 @@ EditView(location: place) { newLocation in
 }
 ```
 
-#struct 
+#struct #hard 
