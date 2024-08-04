@@ -54,4 +54,4 @@ if let selection {
 EditButton()
 ```
 
-#swiftui 
+#swiftui #easy 

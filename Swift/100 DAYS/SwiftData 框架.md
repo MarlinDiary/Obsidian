@@ -121,4 +121,4 @@ try? modelContext.delete(model: User.self)
 
 这样，SwiftData 就不会直接在数据库中保存图像数据，而是将其放在旁边，这样性能更好。
 
-#data #framework
+#data #framework #hard 

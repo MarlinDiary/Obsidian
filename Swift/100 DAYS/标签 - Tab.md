@@ -67,4 +67,4 @@ Text("Tab 2")
 
 同时使用 `NavigationStack` 和 `TabView` 是很常见的情况，但应小心谨慎： `TabView` 应该是父视图，其内部的 Tabs 需要使用 `NavigationStack` ，而不是相反。
 
-#swiftui 
+#swiftui #easy 
