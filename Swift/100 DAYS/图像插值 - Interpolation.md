@@ -9,4 +9,4 @@ Image(.example)
     .interpolation(.none)  
 ```
 
-#swiftui 
+#swiftui #easy 
