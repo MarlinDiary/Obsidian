@@ -62,4 +62,4 @@ UNUserNotificationCenter.current().getNotificationSettings
 // 这将会返回一个类型，这个类型有诸如 authorizationStatus 此类的属性
 ```
 
-#framework 
+#framework #hard 

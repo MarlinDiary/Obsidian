@@ -48,4 +48,4 @@ VStack {
 }
 ```
 
-#swiftui 
+#swiftui #easy 

@@ -56,4 +56,4 @@ Text("Hello, World!")
 let timer = Timer.publish(every: 1, tolerance: 0.5, on: .main, in: .common).autoconnect()
 ```
 
-#swiftui #class 
+#swiftui #class #hard 
