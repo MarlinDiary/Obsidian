@@ -2,4 +2,4 @@
 
 Info → TARGETS → Supported interface orientations (iPhone) → **Delete** the portrait option
 
-#swiftui 
+#swiftui #easy 
