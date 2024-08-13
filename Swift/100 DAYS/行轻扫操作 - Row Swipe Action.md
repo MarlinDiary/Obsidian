@@ -32,4 +32,4 @@ List {
 }
 ```
 
-#swiftui 
+#swiftui #easy 

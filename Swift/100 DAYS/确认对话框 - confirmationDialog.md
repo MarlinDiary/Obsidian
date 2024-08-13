@@ -26,4 +26,4 @@
 }
 ```
 
-#swiftui 
+#swiftui #easy 

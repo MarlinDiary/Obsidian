@@ -13,4 +13,4 @@ Text("Hello, world!")
 
 与之相比，`offset()` 修改器的原理便截然不同。使用 `offset()` 修改器时，我们是在改变视图的渲染位置，而不会实际改变其底层几何图形。
 
-#swiftui 
+#swiftui #easy 

@@ -89,4 +89,4 @@ SwiftUI 将这些选项称为坐标空间，其中两个特别的空间被称为
 .rotation3DEffect(.degrees(proxy.frame(in: .global).minY / 5), axis: (x: 0, y: 1, z: 0))
 ```
 
-#swiftui 
+#swiftui #easy 

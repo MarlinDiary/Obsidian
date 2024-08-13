@@ -32,4 +32,4 @@ ScrollView(.horizontal, showsIndicators: false) {
 - scrollTargetLayout()：用到 `HStack`，表示希望将 `HStack` 中的每个视图都设为**滚动目标**
 - scrollTargetBehavior(.viewAligned)：用到 `ScrollView`，表示希望在所有**滚动目标**间平滑移动
 
-#animation 
+#animation #hard 
