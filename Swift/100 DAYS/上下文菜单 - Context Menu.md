@@ -40,4 +40,4 @@ Button("Red", systemImage: "checkmark.circle.fill") {
 }
 ```
 
-#swiftui 
+#swiftui #easy 

@@ -48,4 +48,4 @@ NavigationSplitView(columnVisibility: .constant(.all)) {
 NavigationSplitView(preferredCompactColumn: .constant(.detail)) {
 ```
 
-#swiftui 
+#swiftui #easy 

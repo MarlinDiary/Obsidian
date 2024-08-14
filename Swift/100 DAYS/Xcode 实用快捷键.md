@@ -8,4 +8,4 @@
 | Cmd+L        | Lock Screen in Simulator |
 | Cmd+H        | Back to Home Screen      |
 
-#xcode
+#xcode #easy 

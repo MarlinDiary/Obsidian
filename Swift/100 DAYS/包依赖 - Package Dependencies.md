@@ -14,4 +14,4 @@ import SamplePackage
 
 3. 如果需要浏览源代码，可以在 Xcode 中访问 Sources
 
-#swiftui 
+#swiftui #easy 

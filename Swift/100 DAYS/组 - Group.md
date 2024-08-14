@@ -71,4 +71,4 @@ if sizeClass == .compact {
 
 值得一提的是，SwiftUI 还提供了一个名为 [[自适应视图 - ViewThatFits]] 的视图，可以在一定程度上简化上述的条件布局。
 
-#swiftui 
+#swiftui #easy 
