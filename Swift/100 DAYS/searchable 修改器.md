@@ -47,4 +47,4 @@ struct ContentView: View {
 // localizedStandardContains() 是根据用户输入进行搜索的最佳方式，它会自动忽略大小写和重音
 ```
 
-#swiftui 
+#swiftui #easy 

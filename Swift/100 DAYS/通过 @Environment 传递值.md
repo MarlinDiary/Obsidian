@@ -86,4 +86,4 @@ struct HighScoreView: View {
 @Bindable var player = player
 ```
 
-#data 
+#data #easy 

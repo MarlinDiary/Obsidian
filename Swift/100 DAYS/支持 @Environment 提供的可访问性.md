@@ -121,4 +121,4 @@ struct ContentView: View {
 .dynamicTypeSize(...DynamicTypeSize.xxxLarge)
 ```
 
-#swiftui 
+#swiftui #easy 

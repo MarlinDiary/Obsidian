@@ -19,4 +19,4 @@
 @State private var cards = Array<Card>(repeating: .example, count: 10)
 ```
 
-#array 
+#array #easy 
