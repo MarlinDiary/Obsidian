@@ -1,9 +1,14 @@
 ---
-description:
-globs:
+description: 
+globs: 
 ---
 
 # Your rule content
 
-- You can @ files here
-- You can use markdown but dont have to
+- 每篇笔记尽量包含双链（[[文件名]]），双链仅限于同一文件夹内的 Markdown 文件
+- 如果一个笔记没有合适的双链，可创建索引或概述性笔记来增强连接性
+- 所有新建的 Markdown 文件默认存放于 Machine Learning 文件夹内
+- 使用 #标签 标记笔记主题，便于搜索和分类
+- 避免过度使用重复或相似的标签，建议控制在 3~5 个核心标签内
+- 定期回顾并优化已有笔记，补充双链，合并重复内容，确保知识体系的连贯性
+
