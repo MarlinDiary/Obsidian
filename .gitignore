@@ -1,16 +1,38 @@
-# to exclude Obsidian's settings (including plugin and hotkey configurations)
+# Obsidian 配置文件
 .obsidian/
 
-# to only exclude plugin configuration. Might be useful to prevent some plugin from exposing sensitive data
-.obsidian/plugins
+# Obsidian 插件配置（防止敏感数据泄露）
+.obsidian/plugins/
 
-# OR only to exclude workspace cache
+# Obsidian 工作区缓存
 .obsidian/workspace.json
-
-# to exclude workspace cache specific to mobile devices
 .obsidian/workspace-mobile.json
 
-# Add below lines to exclude OS settings and caches
+# Obsidian 同步冲突文件
+*.sync-conflict*
+
+# 系统文件
 .trash/
 .DS_Store
-.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.temp
+~*
+*.swp
+*.swo
+
+# 日志文件
+*.log
+
+# 本地历史记录
+.history/
+
+# 个人笔记（可选，取消注释如果需要）
+# private/
+# personal/
+
+# 缓存文件夹
+.cache/
