@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "74cb3174f5a2461a",
+        "id": "a3cfd720694ca080",
         "type": "tabs",
         "children": [
           {
-            "id": "eb2340341ffb7c8a",
+            "id": "35fc2ef3a96c848d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Journal/.obsidian/app.json",
-                "bFile": "Journal/.obsidian/app.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: app.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -179,7 +175,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "eb2340341ffb7c8a",
+  "active": "cad115d384a8a59b",
   "lastOpenFiles": [
     "Journal/2025-03-05.md",
     "Journal/2025-03-04.md",
