@@ -80,8 +80,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,7 +174,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "cad115d384a8a59b",
+  "active": "3fd3147c8565d10f",
   "lastOpenFiles": [
     "Journal/2025-03-05.md",
     "Journal/2025-03-04.md",
