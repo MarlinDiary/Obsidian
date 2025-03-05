@@ -4,10 +4,10 @@
   "hideScroll": true,
   "hideSidebarButtons": false,
   "hideTooltips": true,
-  "hideFileNavButtons": false,
+  "hideFileNavButtons": true,
   "hideSearchSuggestions": false,
   "hideSearchCounts": false,
   "hideInstructions": false,
   "hidePropertiesReading": true,
-  "hideVault": false
+  "hideVault": true
 }
