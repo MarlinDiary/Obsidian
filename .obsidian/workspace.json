@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "2ba43a4d0c5eb232",
+    "type": "split",
+    "children": [
+      {
+        "id": "74cb3174f5a2461a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb2340341ffb7c8a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "011b3d282082332e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e01bd79a756edfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fd3147c8565d10f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "cad115d384a8a59b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "a70e964d7eab2bd2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a8b9a18316ee7c2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "right": {
+    "id": "6041703dd58d96e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c3dabd5c73fdf09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45efadd10f0a5473",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/2025-03-05.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "2025-03-05 的出链列表"
+            }
+          },
+          {
+            "id": "28a4c0439fa5e75c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/2025-03-05.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025-03-05 的反向链接列表"
+            }
+          },
+          {
+            "id": "f85f91d37bd8df5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/2025-03-05.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025-03-05 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "obsidian-git:Open Git source control": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "random-note:开始漫游笔记": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "publish:发布更改": false,
+      "graph:查看关系图谱": false,
+      "audio-recorder:开始/结束录音": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "eb2340341ffb7c8a",
+  "lastOpenFiles": [
+    "Journal/2025-03-05.md",
+    "Journal/2025-03-04.md",
+    "Journal/2025-03-03.md",
+    "Canvas/未命名.canvas",
+    "未命名.canvas",
+    "Canvas",
+    "未命名.md",
+    "Journal",
+    "未命名 5.canvas",
+    "未命名 4.canvas",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "Machine Learning/标准差.md",
+    "数学之美.pdf",
+    "Machine Learning/极大似然估计.md",
+    "Machine Learning/链式法则.md",
+    "Machine Learning/对数几率与逻辑回归.md",
+    "Machine Learning/特征缩放与梯度计算.md",
+    "Machine Learning/逻辑回归的最大似然估计推导.md",
+    "Machine Learning/为什么逻辑回归需要非线性化.md",
+    "Machine Learning/逻辑回归中的Sigmoid函数.md",
+    "Machine Learning/梯度方向.md",
+    "PDF Expert 3.10.9_sdifen.com.dmg.aria2",
+    "PDF Expert 3.10.9_sdifen.com.dmg",
+    "Machine Learning/梯度最大方向证明.md",
+    "Machine Learning/梯度方向证明.md",
+    "Machine Learning/导数与方向.md",
+    "Machine Learning/Z分数.md",
+    "Swift/@Binding.md"
+  ]
+}
